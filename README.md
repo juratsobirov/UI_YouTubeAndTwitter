@@ -1,16 +1,12 @@
-# forme
+# UI
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# YouTube
+![photo_2024-07-08_23-49-15 (2)](https://github.com/juratsobirov/UI_YouTubeAndTwitter/assets/171447978/6ed3b455-c202-49ec-8750-21450ee1751b)
+![photo_2024-07-08_23-49-15](https://github.com/juratsobirov/UI_YouTubeAndTwitter/assets/171447978/764d1547-9298-40f0-92a3-8aafe9f19774)
+![photo_2024-07-08_23-49-16](https://github.com/juratsobirov/UI_YouTubeAndTwitter/assets/171447978/24dd0803-76f8-4110-816b-3a5a2cea4fea)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
